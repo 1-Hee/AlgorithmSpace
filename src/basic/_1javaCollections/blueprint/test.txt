@@ -1,0 +1,83 @@
+    private static final int DEFAULT_CAPACITY = 10;
+    private int size = 0;
+    private Object[] elements;
+
+    // 기본 생성자
+    public MyArrayList() {
+        elements = new Object[DEFAULT_CAPACITY];
+    }
+
+    // 크기를 지정할 수 있는 생성자
+    public MyArrayList(int initialCapacity) {
+        if (initialCapacity < 0) {
+            throw new IllegalArgumentException("Illegal Capacity: " + initialCapacity);
+        }
+        elements = new Object[initialCapacity];
+    }
+
+    // 크기 반환
+    public int size() {
+        return size;
+    }
+
+    // 요소가 비어있는지 확인
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    // 요소 추가
+    public boolean add(E e) {
+        ensureCapacity(size + 1);  // 필요한 경우 용량 확장
+        elements[size++] = e;
+        return true;
+    }
+
+    // 요소 삭제
+    public E remove(int index) {
+        rangeCheck(index);
+        E oldValue = elementData(index);
+        int numMoved = size - index - 1;
+        if (numMoved > 0) {
+            System.arraycopy(elements, index + 1, elements, index, numMoved);
+        }
+        elements[--size] = null;  // GC가 요소를 정리할 수 있게 함
+        return oldValue;
+    }
+
+    // 인덱스로 요소 가져오기
+    public E get(int index) {
+        rangeCheck(index);
+        return elementData(index);
+    }
+
+    // 요소 설정 (덮어쓰기)
+    public E set(int index, E element) {
+        rangeCheck(index);
+        E oldValue = elementData(index);
+        elements[index] = element;
+        return oldValue;
+    }
+
+    // 배열 확장 메서드
+    private void ensureCapacity(int minCapacity) {
+        if (minCapacity > elements.length) {
+            int newCapacity = elements.length * 2;
+            if (newCapacity < minCapacity) {
+                newCapacity = minCapacity;
+            }
+            elements = Arrays.copyOf(elements, newCapacity);
+        }
+    }
+
+    // 범위 체크 메서드
+    private void rangeCheck(int index) {
+        if (index >= size || index < 0) {
+            throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size);
+        }
+    }
+
+    // 내부에서 요소 반환 메서드
+    @SuppressWarnings("unchecked")
+    private E elementData(int index) {
+        return (E) elements[index];
+    }
