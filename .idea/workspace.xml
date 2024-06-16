@@ -4,19 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d9849e-ebe4-4cbc-9f4d-ee5ac8d9ec5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/_1javaCollections/TODO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/_2sort/TODO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/_3recursive/TODO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/_4graph/TODO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem/목차 설명.txt" afterDir="false" />
+    <list default="true" id="92d9849e-ebe4-4cbc-9f4d-ee5ac8d9ec5b" name="Changes" comment="make directories">
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv0/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/lang/lv5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv0/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/sql/lv5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_01bronze_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_02bronze_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_03bronze_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_04bronze_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_05bronze_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_06silver_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_07silver_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_08silver_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_09silver_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_10silver_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_11gold_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_12gold_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_13gold_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_14gold_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_15gold_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_16platinum_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_17platinum_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_18platinum_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_19platinum_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_20platinum_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_21diamond_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_22diamond_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_23diamond_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_24diamond_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_25diamond_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_26ruby_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_27ruby_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_28ruby_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_29ruby_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solved/_30ruby_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_1/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_2/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_3/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_4/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_5/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_6/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_7/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/diff_8/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_10geometry_1/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_01operations/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_11time_complexity/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_02conditional/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_12brute_force/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_03loop/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_13sort/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_04one_d_array/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_14sets_maps/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_05string/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_15factors_multiples_decimals_2/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_06advanced/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_16stacks_queues_decks/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_07two_d_array/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_17combinatorics/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_08general_math/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_18recursion/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_09factors_multiples_decimals/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_19backtracking/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_10geometry_1/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_1operations/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_11time_complexity/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_20dp_1/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_12brute_force/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_21cumulative_sum/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_13sort/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_22greedy/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_14sets_maps/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_23divide_conquer/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_15factors_multiples_decimals_2/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_24dichotomy_exploration/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_16stacks_queues_decks/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_25priority_queue/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_17combinatorics/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_26dp_2/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_18recursion/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_27stack_deeper/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_19backtracking/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_28graphs_traversals/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_20dp_1/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_29shortest_path/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_21cumulative_sum/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_2conditional/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_22greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_30two_pointer_1/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_23divide_conquer/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_31dp_and_shortest_distance_backtracking/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_24dichotomy_exploration/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_32tree/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_25priority_queue/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_33union_find/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_26dp_2/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_34minimum_spanning_tree/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_27stack_deeper/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_35dp_in_trees/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_28graphs_traversals/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_36geometry_2/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_29shortest_path/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_37dp_3/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_30two_pointer_1/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_38string_algorithm_1/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_31dp_and_shortest_distance_backtracking/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_39phase_alignment/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_32tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_3loop/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_33union_find/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_40least_common_ancestor/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_34minimum_spanning_tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_41strong_connection_elements/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_35dp_in_trees/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_42segment_tree/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_36geometry_2/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_43sweeping/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_37dp_3/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_44dp_4/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_38string_algorithm_1/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_45convex_hull/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_39phase_alignment/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_46binary_matching/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_40least_common_ancestor/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_47network_flow/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_41strong_connection_elements/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_48MCMF/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_42segment_tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_49difficult_section_query/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_43sweeping/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_4one_d_array/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_44dp_4/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_50difficult_math/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_45convex_hull/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_51fast_fourier_transform/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_46binary_matching/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_52string_algorithm_2/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_47network_flow/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_53segment_tree_hard/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_48MCMF/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_54dp_optimization/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_49difficult_section_query/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_5string/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_50difficult_math/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_6advanced/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_51fast_fourier_transform/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_7two_d_array/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_52string_algorithm_2/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_8general_math/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_53segment_tree_hard/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/_9factors_multiples_decimals/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/_54dp_optimization/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/목차 설명.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_baekjun/목차 설명.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,10 +142,19 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jowonhee/Public/github/AlgorithmSpace",
+    "last_opened_file_path": "/Users/jowonhee/Public/github/AlgorithmSpace/src/programmers/sql",
     "onboarding.tips.debug.path": "/Users/jowonhee/Public/github/AlgorithmSpace/AlgorithmSpace/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/programmers/sql" />
+      <recent name="$PROJECT_DIR$/src/swea/diff_8" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/swea/diff_7" />
+      <recent name="$PROJECT_DIR$/src/swea/diff_6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,7 +172,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718496344288</updated>
     </task>
+    <task id="LOCAL-00001" summary="make directories">
+      <option name="closed" value="true" />
+      <created>1718500564692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718500564692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="make directories" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
